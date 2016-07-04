@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Registro de Usuario</string>
+    <string name="nombreCompleto">Nombre Completo</string>
+    <string name="fechaNac">Fecha de Nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="editarDatos">Editar Datos</string>
+    <string name="minDate">01/01/1990</string>
+
+    <string name="putNombre">Nombre</string>
+    <string name="putFecha">Fecha</string>
+    <string name="putTel">Telefono</string>
+    <string name="putEmail">Email</string>
+    <string name="putDescripcion">Descripcion</string>
+    <string name="botonFecha">Elegir Fecha</string>
+</resources>
